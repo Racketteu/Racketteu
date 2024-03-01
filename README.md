@@ -3,15 +3,10 @@
 🌐 Currently seeking new internship opportunities | Open to exciting collaborations
 
 💼 Experienced in : 
-      +  Web development (HTML, CSS, JavaScript, modern frameworks)
-      +  Application development (C#, .NET, Java)
-      +  Database management (SQL, SQL Server, SQL management studio)
-
-      - Item
-- Deuxième item
-   - Sous-liste : **_3_** espaces en début de ligne
-   - Deuxième item de la sous-liste
-- Dernier item
+- Web development (HTML, CSS, JavaScript, modern frameworks)
+- Application development (C#, .NET, Java)
+- Database management (SQL, SQL Server, SQL management studio)
+- Project management (Agile, SCRUM) 
 
 🔧 Always seeking new challenges and continuous learning | Passionate about technological innovation and problem-solving
 
