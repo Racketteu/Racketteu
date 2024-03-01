@@ -1,8 +1,11 @@
-👨‍💻 Computer Science Enthusiast | Full Stack Developer | IT and computer sience Student
+👨‍💻 IT and computer sience Student
 
 🌐 Currently seeking new internship opportunities | Open to exciting collaborations
 
-💼 Experienced in web development (HTML, CSS, JavaScript, modern frameworks), application development (C#, .NET, Java), and database management (SQL, MongoDB)
+💼 Experienced in : 
+      Web development (HTML, CSS, JavaScript, modern frameworks)
+      Application development (C#, .NET, Java)
+      Database management (SQL, SQL Server, SQL management studio)
 
 🔧 Always seeking new challenges and continuous learning | Passionate about technological innovation and problem-solving
 
