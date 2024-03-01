@@ -7,6 +7,12 @@
       +  Application development (C#, .NET, Java)
       +  Database management (SQL, SQL Server, SQL management studio)
 
+      - Item
+- Deuxième item
+   - Sous-liste : **_3_** espaces en début de ligne
+   - Deuxième item de la sous-liste
+- Dernier item
+
 🔧 Always seeking new challenges and continuous learning | Passionate about technological innovation and problem-solving
 
 🚀 Actively contributing to open source projects | Active member of the GitHub community
